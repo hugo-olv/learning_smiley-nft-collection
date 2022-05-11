@@ -1,0 +1,3502 @@
+[
+  {
+    "name": "Smiley Hugo Olv #1",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "b2e04ea8126727787f13025be2141cb699937880",
+    "edition": 1,
+    "date": 1652143095310,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #2",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "14f52cf966858fe3867560f549fc92e8e73e60a7",
+    "edition": 2,
+    "date": 1652143096401,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #3",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "62d207a1c41c4b25204d45311db537172ff06aa3",
+    "edition": 3,
+    "date": 1652143098306,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #4",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "6b086ff557ab6cb2f267d97fddabb1326cda7bfe",
+    "edition": 4,
+    "date": 1652143099406,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #5",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "7f44bfd47c825b899986da52bdd8b6f7274340d3",
+    "edition": 5,
+    "date": 1652143101103,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #6",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "36bbd5dc798e97d5aa8cba0c3cbc46c780c4e060",
+    "edition": 6,
+    "date": 1652143102126,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #7",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "391b3cbc63436d70cf6bcf980e717e0477e34cef",
+    "edition": 7,
+    "date": 1652143103068,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #8",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "96f04f6fb1d6a4adc87db544df9d2ba3d4fbb842",
+    "edition": 8,
+    "date": 1652143104127,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #9",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "826875245ccb765dabe3403054c856ec2ab67016",
+    "edition": 9,
+    "date": 1652143105031,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #10",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "b732f899b8c06f71d54e2931acae88adfeb67ea0",
+    "edition": 10,
+    "date": 1652143106020,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #11",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "cc50fb70bc3f4c1905f0251d1a2b38bf492ca2de",
+    "edition": 11,
+    "date": 1652143106949,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #12",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "9e59464f26361024692d38e0eb5bc465bcc6feeb",
+    "edition": 12,
+    "date": 1652143107892,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #13",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "a3eee5de984d891ef506b85712a928230d140b95",
+    "edition": 13,
+    "date": 1652143109647,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #14",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "5dfa3145deca6630bf1226d81e73d3281aebe52c",
+    "edition": 14,
+    "date": 1652143110638,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #15",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "a7b77ffba5b9ddafe0ee709758c16b370cc522ef",
+    "edition": 15,
+    "date": 1652143111564,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #16",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "37ed77d730828568a1a6532c2afedc2574a9d088",
+    "edition": 16,
+    "date": 1652143112592,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #17",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "752b727b804574440fa8d6511685623a50d0a69d",
+    "edition": 17,
+    "date": 1652143114389,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #18",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "cf6919d9ce79bc1bbd6b2395fe976fe3ba9f2ea3",
+    "edition": 18,
+    "date": 1652143115315,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #19",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "8cac9400933c9246c8e3b920072b02fe52672d8a",
+    "edition": 19,
+    "date": 1652143116298,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #20",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "3592a270645e335bc88d78bee3969c59f762b4e8",
+    "edition": 20,
+    "date": 1652143117965,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #21",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "e8a8d8d7c88a9ed5455e69e56809caa180655228",
+    "edition": 21,
+    "date": 1652143119718,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #22",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "f2433d39c795f393e9f80646d686f70f6d5c4022",
+    "edition": 22,
+    "date": 1652143120688,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #23",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "405a321043a1563373653ad41e653c76dc611b56",
+    "edition": 23,
+    "date": 1652143121653,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #24",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "56678f4d2135ead3f182a0daff596e45412e5afb",
+    "edition": 24,
+    "date": 1652143122636,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #25",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "cb70d2bd3c1b5f422cd72848725b103a605657bc",
+    "edition": 25,
+    "date": 1652143123560,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #26",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "e5d334f7c76c24547c6378e4456fe38189c7fa85",
+    "edition": 26,
+    "date": 1652143125306,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #27",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "49da4b4795ac3a4c9aad8ed65f5e547a375a3a58",
+    "edition": 27,
+    "date": 1652143126319,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #28",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "dc47ea200ca3c7b10feca6627445ebbd8d4f21d5",
+    "edition": 28,
+    "date": 1652143127269,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #29",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "606714b4e72c46013aa73710476be16b113b5e70",
+    "edition": 29,
+    "date": 1652143128241,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #30",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "12bb063f401d2dcca2f25649ae7563018ed2c78a",
+    "edition": 30,
+    "date": 1652143129220,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #31",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "0810b7a86cd0f2fb6f3e41f02173d11dcbc7fa37",
+    "edition": 31,
+    "date": 1652143131012,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #32",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "b9187adeebeac9dd2a0203978d20126c24629df8",
+    "edition": 32,
+    "date": 1652143131987,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #33",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "55a9ea235fa0461e383ec1389310c08ae349fbdf",
+    "edition": 33,
+    "date": 1652143133747,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #34",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "63578668dc2d467ab6dca346502ca337df241154",
+    "edition": 34,
+    "date": 1652143134748,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #35",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "db97d64647b7a546b21bbfe47922ddccb7a0cf4e",
+    "edition": 35,
+    "date": 1652143135718,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #36",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "fda823bfa1d06a697f77f6279adb790ddfb269a7",
+    "edition": 36,
+    "date": 1652143137017,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #37",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "34c869cdc87c70e39859a0ea593d55de33a13cee",
+    "edition": 37,
+    "date": 1652143138810,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #38",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "e85a149bddcd4228723cc4f0f257e1c87100d564",
+    "edition": 38,
+    "date": 1652143140610,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #39",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "36306d934bd09b4603c5284bbbcac38050aa918f",
+    "edition": 39,
+    "date": 1652143142455,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #40",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "75b2a67f9271788bc7b8052fb5d33faf6c75e4e1",
+    "edition": 40,
+    "date": 1652143143471,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #41",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "e4c988014e22b4b8194e1608138451d6eb6d159f",
+    "edition": 41,
+    "date": 1652143145234,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #42",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "54d1b21bff76a8260b5c841acd55ad76e45e3842",
+    "edition": 42,
+    "date": 1652143146250,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #43",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "067438397ed565ccc5d4cfd79dccc9ac5b9c7c38",
+    "edition": 43,
+    "date": 1652143147508,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #44",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "1908db23c658284f778871e8d6ab814062c774ca",
+    "edition": 44,
+    "date": 1652143149320,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #45",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "27b6b80c6f9d34f3f7a28f7440b163ce86ab6024",
+    "edition": 45,
+    "date": 1652143150313,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #46",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "aab3f295e622956197b27fdf3450c2a4d109bbc8",
+    "edition": 46,
+    "date": 1652143152091,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #47",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "e386f5299bdb642a1eb1267a7d7d813bafbfef46",
+    "edition": 47,
+    "date": 1652143153089,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #48",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "8e400dcae6f1ca4cb5db44a919d4572757ac75bf",
+    "edition": 48,
+    "date": 1652143154061,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #49",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "0672993a449b5cab89301b6f9486c0cdaf66da23",
+    "edition": 49,
+    "date": 1652143155074,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #50",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "d26d27aa23a4a6857ddd062300cd5b5a68379859",
+    "edition": 50,
+    "date": 1652143156051,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #51",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/51.png",
+    "dna": "d9e862fc7d35cc9d074fb989151f99c522a2cec3",
+    "edition": 51,
+    "date": 1652143157049,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #52",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/52.png",
+    "dna": "2da40cd71c878d3214899e14c93925bec4eb19f4",
+    "edition": 52,
+    "date": 1652143158002,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #53",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/53.png",
+    "dna": "e4f2e1f77ad3f109ec824890e3ba6154fc8c471d",
+    "edition": 53,
+    "date": 1652143159828,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #54",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/54.png",
+    "dna": "1f29d5f2b4c95a99401e2a2e0517987f6b378978",
+    "edition": 54,
+    "date": 1652143161112,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #55",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/55.png",
+    "dna": "fc57519118a38f882691f6a63090bf293fe1649a",
+    "edition": 55,
+    "date": 1652143162888,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #56",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/56.png",
+    "dna": "40e1cce88ac821b01d9fd049d79f257d12b9638d",
+    "edition": 56,
+    "date": 1652143164628,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #57",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/57.png",
+    "dna": "983e53c3cda8e4045a1cf75ab34935c22cd65853",
+    "edition": 57,
+    "date": 1652143165953,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #58",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/58.png",
+    "dna": "5e8b308178e8ccb7456ceb963263b0305770af94",
+    "edition": 58,
+    "date": 1652143167013,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #59",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/59.png",
+    "dna": "261fe6be816bcdafab8ff7256184bc67814a8096",
+    "edition": 59,
+    "date": 1652143168839,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #60",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/60.png",
+    "dna": "645d8970b2fa8901b52952dd9247e50422ba125f",
+    "edition": 60,
+    "date": 1652143170569,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #61",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/61.png",
+    "dna": "b6fd4ea86b4bbe0c2f4539dfc549ef62f14d8b9f",
+    "edition": 61,
+    "date": 1652143171642,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #62",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/62.png",
+    "dna": "6f64611d8100b3166960558a53d570700241c283",
+    "edition": 62,
+    "date": 1652143172967,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #63",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/63.png",
+    "dna": "094ae0f55e974222b89e5b7d607fed8e9a948e87",
+    "edition": 63,
+    "date": 1652143173943,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #64",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/64.png",
+    "dna": "9412d2ea3e203fbe677ef5bb1ddad349b1f961f1",
+    "edition": 64,
+    "date": 1652143174980,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #65",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/65.png",
+    "dna": "c06b7dd7d7867900a600e5bfcab68c84e5521dc6",
+    "edition": 65,
+    "date": 1652143176304,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #66",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/66.png",
+    "dna": "25d5dabd076933372b2f69d15c728c70d415a400",
+    "edition": 66,
+    "date": 1652143177334,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #67",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/67.png",
+    "dna": "6515cc10de32682a8a149defddea8542301c89fd",
+    "edition": 67,
+    "date": 1652143178649,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #68",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/68.png",
+    "dna": "e6deeccf8bb005fdda3e5171700fef5f4141c4d9",
+    "edition": 68,
+    "date": 1652143179935,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #69",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/69.png",
+    "dna": "a780c400aa939479656a5ec817826873da53fae5",
+    "edition": 69,
+    "date": 1652143180966,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #70",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/70.png",
+    "dna": "6ff0d73eea317ee010b7292aca8b39c680283ffe",
+    "edition": 70,
+    "date": 1652143182253,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #71",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/71.png",
+    "dna": "ea60b584dd0c1217dd3fd5799ca7bc3b35bc4cb6",
+    "edition": 71,
+    "date": 1652143183280,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #72",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/72.png",
+    "dna": "71a84524e04abd9ba0780f3584f0f0ae6b267e8c",
+    "edition": 72,
+    "date": 1652143184534,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #73",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/73.png",
+    "dna": "cd3054153db82aa0e3697cafcb8bf24176e3f03f",
+    "edition": 73,
+    "date": 1652143186234,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #74",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/74.png",
+    "dna": "f0af64cc7beb52e224b6b744c03ed98f16fb99f9",
+    "edition": 74,
+    "date": 1652143188029,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #75",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/75.png",
+    "dna": "af4c78682237d0cc3a8183b644ea8ef9f4f40471",
+    "edition": 75,
+    "date": 1652143189704,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #76",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/76.png",
+    "dna": "ae94d761b1ac60da46c7a067a4eb5f50e1225cd6",
+    "edition": 76,
+    "date": 1652143191516,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #77",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/77.png",
+    "dna": "4c4d1499ced581f3b234ece9db8d9c4af0e2a051",
+    "edition": 77,
+    "date": 1652143192833,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #78",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/78.png",
+    "dna": "cefec4444c719f210d98c5951a4c59974b871f16",
+    "edition": 78,
+    "date": 1652143193817,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #79",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/79.png",
+    "dna": "92feddf05a73321a31a494268a4ba263d561fcfe",
+    "edition": 79,
+    "date": 1652143194842,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #80",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/80.png",
+    "dna": "779fc48c3e81160e72fb70ee9198920ee2ccf73f",
+    "edition": 80,
+    "date": 1652143196655,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #81",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/81.png",
+    "dna": "15f09a32f7e937cf44dd3585d4abcd6e2aafd38c",
+    "edition": 81,
+    "date": 1652143197973,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #82",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/82.png",
+    "dna": "5509eb6cfcecbbbd5c0d2cfcb92a310cf7053812",
+    "edition": 82,
+    "date": 1652143199279,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #83",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/83.png",
+    "dna": "c7997d2f9a4471b700b400a62646d13571c79fa5",
+    "edition": 83,
+    "date": 1652143200305,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #84",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/84.png",
+    "dna": "1fb618ae57ce2188db77d453d6b4b1ce0b4539cd",
+    "edition": 84,
+    "date": 1652143201303,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #85",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/85.png",
+    "dna": "689be25d56d63eef197a0bedff58695924397075",
+    "edition": 85,
+    "date": 1652143203016,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #86",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/86.png",
+    "dna": "6d85dec03fae7c776a83cf2200184a922baa1cf3",
+    "edition": 86,
+    "date": 1652143204056,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #87",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/87.png",
+    "dna": "8a8906c2ba5b438587f6b6caa94d93a5a597508d",
+    "edition": 87,
+    "date": 1652143205044,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #88",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/88.png",
+    "dna": "840db654c501119c9603a903bcf3f65818125147",
+    "edition": 88,
+    "date": 1652143206749,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #89",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/89.png",
+    "dna": "c1d2282a212aa184d405ce19b5807fe8a8ea3861",
+    "edition": 89,
+    "date": 1652143207972,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #90",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/90.png",
+    "dna": "54e67f77141c395b3b31000619103c70fda2979c",
+    "edition": 90,
+    "date": 1652143208995,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #91",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/91.png",
+    "dna": "9469f0cc00041e1bcc9d0ad996ecaf7511ce0471",
+    "edition": 91,
+    "date": 1652143210824,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #92",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/92.png",
+    "dna": "e9031aa1402ebe50dd6aa5f52783e6905b103626",
+    "edition": 92,
+    "date": 1652143212566,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #93",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/93.png",
+    "dna": "3af476b48ec7e154a1c150af813a80fce07b7bb6",
+    "edition": 93,
+    "date": 1652143214329,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #94",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/94.png",
+    "dna": "3b50d70a07fc2a74823cf268ef14064cd3da586f",
+    "edition": 94,
+    "date": 1652143215309,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #95",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/95.png",
+    "dna": "546dee7d9c30106340fac201eec83d805e4dbafd",
+    "edition": 95,
+    "date": 1652143217100,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #96",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/96.png",
+    "dna": "24af780b0d7e1dcfa5fd54497b87da18cae642fd",
+    "edition": 96,
+    "date": 1652143218853,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #97",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/97.png",
+    "dna": "25c3a6f4cb555e5b9e771de4e0d55bc715b8e03e",
+    "edition": 97,
+    "date": 1652143220595,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #98",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/98.png",
+    "dna": "604c1676ba6429dec4eaee0ef9969193d491b1b6",
+    "edition": 98,
+    "date": 1652143221577,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #99",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/99.png",
+    "dna": "8e6cd217562ae27065a285bb2ae2ec512d79acc0",
+    "edition": 99,
+    "date": 1652143222837,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Smiley Hugo Olv #100",
+    "description": "Amazing NFT smiley collection made by Hugo Olv",
+    "image": "ipfs://NewUriToReplace/100.png",
+    "dna": "128f7a3b241aebd7dc08a431c9a325c99a4afe55",
+    "edition": 100,
+    "date": 1652143224038,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Vegetal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Water"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

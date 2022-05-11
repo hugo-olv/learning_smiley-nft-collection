@@ -1,0 +1,35 @@
+{
+  "name": "Smiley Hugo Olv #71",
+  "description": "Amazing NFT smiley collection made by Hugo Olv",
+  "image": "ipfs://NewUriToReplace/71.png",
+  "dna": "ea60b584dd0c1217dd3fd5799ca7bc3b35bc4cb6",
+  "edition": 71,
+  "date": 1652143183280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Water"
+    },
+    {
+      "trait_type": "Teeth",
+      "value": "White"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Halo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
