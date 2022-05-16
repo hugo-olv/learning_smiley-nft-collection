@@ -49,7 +49,7 @@ build/Release
 
 # Dependency directories
 
-build/
+build/images
 dist/
 layers/
 node_modules/

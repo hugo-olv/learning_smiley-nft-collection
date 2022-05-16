@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "Smiley Hugo Olv";
 const description = "Amazing NFT smiley collection made by Hugo Olv";
-const baseUri = "ipfs://NewUriToReplace";
+const baseUri = "ipfs://QmeEnrKi4cwJ3KG9AsasZpN5TxX7u4jSwLnL2LH5nVX2jF";
 
 const solanaMetadata = {
   symbol: "YC",
